@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Akatron Network](https://github.com/Akatron-Network)
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: emir@akatron.net
+- 📫 How to reach me: hakan@akatron.net
 - ⚡ Fun fact: I'm still playing Metin2
 
 ### Interests:
