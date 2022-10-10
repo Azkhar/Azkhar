@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Azkhar/Azkhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Akatron Network](https://github.com/Akatron-Network)
+- 🌱 I’m currently learning ReactJS
+- 💬 Ask me about JavaScript
+- 📫 How to reach me: emir@akatron.net
+- ⚡ Fun fact: I'm still playing Metin2
 
-Here are some ideas to get you started:
+### Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Fav IDE:
+![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)
