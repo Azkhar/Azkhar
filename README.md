@@ -10,7 +10,6 @@
 
 ![React](https://badges.aleen42.com/src/react.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![HTML](https://badges.aleen42.com/src/html.svg)
 ![Tailwind CSS](https://badges.aleen42.com/src/tailwindcss.svg)
 
 ### Fav IDE:
