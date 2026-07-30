@@ -37,6 +37,17 @@ I designed and developed the UI/UX and responsive frontend for order, invoice, i
 
 **Stack:** React, Tailwind CSS, TanStack Query, Material React Table, ECharts
 
+### Accessibility Preference Widget
+
+Open-source, WCAG 2.2-focused accessibility preference widget built with vanilla JavaScript.
+
+I prepared the project as an independent public release with Shadow DOM isolation, persistent user preferences, a standalone build system, automated tests, and a live demo.
+
+**Stack:** JavaScript, HTML5, CSS3, Shadow DOM, LocalStorage, esbuild
+
+- [Source Code](https://github.com/Azkhar/accessibility-preference-widget)
+- [Live Demo](https://azkhar.github.io/accessibility-preference-widget/)
+  
 ## Core Technologies
 
 **Frontend:** JavaScript, TypeScript, React, Next.js, HTML5, CSS3  
