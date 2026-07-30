@@ -55,6 +55,7 @@ I prepared the project as an independent public release with Shadow DOM isolatio
 **State & Data:** Redux Toolkit, TanStack Query, REST APIs, Axios  
 **Forms & Validation:** React Hook Form, Zod  
 **Tools:** Git, GitHub, Vite, Jest, PM2, Linux/VPS
+**Open Source & Tooling:** Shadow DOM, LocalStorage, esbuild, GitHub Actions, GitHub Pages
 
 ## Links
 
