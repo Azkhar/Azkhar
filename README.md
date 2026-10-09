@@ -18,17 +18,24 @@ I mainly work with React, Next.js, and TypeScript, with a focus on turning busin
 - API integrations and collaboration with backend developers
 - UI/UX design, performance improvements, and production support
 
+## How I Build with AI Agents
+
+Most of my code is now written by coding agents, mainly Claude Code. My part is what does not automate well: scoping the work, keeping the project context and rules current, reading every diff, testing, and owning the release.
+
+- **[The Last Engraving pipeline](https://github.com/Azkhar/last-engraving-pipeline-case-study)**: the production pipeline behind a weekly documentary channel on YouTube. A Remotion (React) engine turns a script into a 12 to 15 minute episode with narration, generated plates, real archive, maps, subtitles and vertical clips. Includes what broke and what changed.
+- **[orkestra](https://github.com/Azkhar/orkestra)**: an open-source sub-agent orchestration skill for Claude Code and Codex. Delegate only when it pays, brief tightly, review independently.
+
 ## Selected Work
 
 ### [ScoutForge](https://scoutforge.net)
 
-Software discovery platform featuring more than 2,500 applications and 1,000 registered users.
+Software discovery platform featuring more than 2,800 applications and 1,400 registered users.
 
 As Co-Founder and Frontend & Product Engineer, I designed and developed both the public-facing web application and the multi-module admin panel.
 
 **Stack:** Next.js, React, Redux Toolkit, Tailwind CSS, shadcn/ui
 
-[View Frontend & Product Case Study](https://github.com/Azkhar/scoutforge-frontend-case-study)
+[View Frontend & Product Case Study](https://github.com/Azkhar/scoutforge-product-case-study)
 
 ---
 
@@ -71,6 +78,7 @@ I prepared the project as an independent public release with Shadow DOM isolatio
 **State & Data:** Redux Toolkit, TanStack Query, REST APIs, Axios  
 **Forms & Validation:** React Hook Form, Zod  
 **Tools:** Git, GitHub, Vite, Jest, PM2, Linux/VPS  
+**AI Workflow:** Claude Code, OpenAI Codex, MCP, sub-agents, Remotion  
 **Open Source & Tooling:** Shadow DOM, LocalStorage, esbuild, GitHub Actions, GitHub Pages
 
 ## Links
